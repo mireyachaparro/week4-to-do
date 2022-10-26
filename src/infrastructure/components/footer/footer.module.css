@@ -1,0 +1,15 @@
+.footer {
+  min-height: 10vh;
+  padding-block: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgreen;
+}
+
+.header address,
+.footer p {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,13 @@
+.header {
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgreen;
+}
+
+.header h1 {
+  margin: 0;
+  padding: 0;
+}

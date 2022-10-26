@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased; /*estamos usando propiedades de css mas o menos experimentales, no estandar y especificas de los navegadores*/
+  -moz-osx-font-smoothing: grayscale; /*este igual*/
+  min-height: 100vh;
+}
+main {
+  min-height: 70vh;
+  margin: 1rem;
+}
